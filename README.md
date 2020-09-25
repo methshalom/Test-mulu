@@ -6,4 +6,4 @@ also
 
 3. asdf 
 
-4. ghjkl- zxcvbnm
+4. ghjkl
